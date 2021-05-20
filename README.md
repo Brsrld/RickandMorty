@@ -2,9 +2,7 @@
 
 You can see Rick and Morty Universe characters with this app
 
-A music for you when you examine to project
-
-https://www.youtube.com/watch?v=aPZApB00ASM
+A music for you when you examine to project:https://www.youtube.com/watch?v=aPZApB00ASM
 
 API Link:https://rickandmortyapi.com/
 
