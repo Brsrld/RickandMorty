@@ -6,6 +6,8 @@ A music for you when you examine to project
 
 https://www.youtube.com/watch?v=aPZApB00ASM
 
+API Link:https://rickandmortyapi.com/
+
 # Description
 
 My first project without following any tutorial.I used MVVM architecture,protocols,alamofire and kingfisher.I tried to improve ui skils.
